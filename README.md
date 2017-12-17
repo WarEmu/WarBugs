@@ -42,4 +42,8 @@ This is vital, as it allows both our managers to easily collate and deal with du
 
 Google Translate reports will be closed on sight.
 
+* One issue per ticket
+
+Only report one issue per ticket as multiple issues within one ticket is harder to track and harder to address.
+
 https://www.returnofreckoning.com/forum/viewtopic.php?f=52&t=10366
