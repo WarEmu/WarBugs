@@ -10,6 +10,3 @@ Steps to reproduce the problem:
 
 Screenshots/Videos or archive.org evidences:
 
-
-
-* Complete rules for the bugtracker https://www.returnofreckoning.com/forum/viewtopic.php?f=52&t=10366
