@@ -1,7 +1,8 @@
 Issues should be unique. Check if someone else reported 
 the issue first, and please don't report duplicates.
-If its ToK related, please check the wiki before posting: 
-https://wiki.returnofreckoning.com/index.php/Main_Page
+Make sure you've checked the wiki before you post something ToK related:
+https://wiki.returnofreckoning.com/
+
 
 **Expected behavior and actual behavior:**
 
@@ -11,5 +12,5 @@ https://wiki.returnofreckoning.com/index.php/Main_Page
 
 
 
-**Screenshots/Videos or archive.org evidences:**
+**Testing Screenshots/Videos/Evidences (always needed):**
 
