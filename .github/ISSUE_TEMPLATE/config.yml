@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord
+    url: https://discord.gg/G9jDWgv
+    about: Ask questions or get help from a GM
+  - name: Suggestions and feedback forum
+    url: https://www.returnofreckoning.com/forum/viewforum.php?f=15
+    about: Post feature suggestions here
+  - name: Gameplay and Balance Discussion forum
+    url: https://www.returnofreckoning.com/forum/viewforum.php?f=78
+    about: Post gameplay and balance suggestions here
