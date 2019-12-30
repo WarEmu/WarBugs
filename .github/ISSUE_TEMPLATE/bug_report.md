@@ -25,4 +25,6 @@ Only ONE issue in a report. Don't forget screens or a video.
      no need to upload it to another site -->
 
 
-
+<!--
+Note that game critical and game breaking bugs may award a manticore/griffon (realm specific) at the leads discretion however, asking for one instantly disqualifies you from this reward.
+-->
