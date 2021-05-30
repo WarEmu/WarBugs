@@ -1,6 +1,6 @@
 # Return of Reckoning - Bugtracker Repo
 
-The place for all ingame issues related to this project: https://www.returnofreckoning.com/
+The place for all ingame issues related to this project: https://www.returnofreckoning.com/ 
 
 ## Getting Started
 
